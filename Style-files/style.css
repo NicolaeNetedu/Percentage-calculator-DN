@@ -1,0 +1,53 @@
+.conteiner {
+    width: 500px;
+    height: 500px;
+
+    display: flex;
+    padding: 25px;
+    margin: auto;
+
+
+}
+
+.calculator{
+    width: 300px;
+    height: 300px;
+    color: white;
+    background-color: indigo;
+    align-self: center;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    border-radius: 20px;
+
+}
+
+#calcprocent {
+    background-color: darkseagreen;
+}
+
+#calctotal {
+    background-color: darkseagreen;
+}
+
+#total{
+    width: 150px;
+    height: 25px;
+    color: white;
+    background-color: red;
+    margin-left: 75px
+;
+}
+
+#test {
+    height: 250px;
+    width: 250px;
+    background-color: red;
+    margin: auto;
+}
+
+.text {
+    /*padding: 10px;*/
+    display: flex;
+    flex-direction: row;
+}
